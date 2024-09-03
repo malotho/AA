@@ -70,3 +70,10 @@ flowchart TD
     I -->|Exec Procedure| J
 
 ```
+
+sources 
+
+https://www.milanjovanovic.tech/blog/fast-sql-bulk-inserts-with-csharp-and-ef-core
+https://learn.microsoft.com/en-us/dotnet/framework/data/adonet/sql/single-bulk-copy-operations
+https://virtual-dba.com/blog/in-memory-tables-sql-server-benefits-limitations-and-how-to-identify/#:~:text=This%20feature%20allows%20faster%20performance,%2C%20update%2C%20and%20delete%20operations
+https://learn.microsoft.com/en-us/sql/relational-databases/in-memory-oltp/faster-temp-table-and-table-variable-by-using-memory-optimization?view=sql-server-ver16
