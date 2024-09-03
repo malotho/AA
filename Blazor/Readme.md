@@ -144,4 +144,7 @@ erDiagram
 
 - [Role-Based Authorization in Blazor - C# Corner](https://www.c-sharpcorner.com/article/role-based-authorization-in-blazor/)
 - [Async Patterns in ASP.NET Core - David Fowler](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios)
+- [Blazor course - 1](https://www.youtube.com/watch?v=LMDo38DPxZc&t=5900s&pp=ygUPYmxhem9yIHR1dG9yaWFs)
+- [Blazor course - 2](https://www.youtube.com/watch?v=EqSgqm4qWjo)
+- [Blazor course - 3](https://www.youtube.com/watch?v=1rwNc8ldIxI&t=2876s)
 
