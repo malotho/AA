@@ -1,0 +1,14 @@
+/Users/mnathz/Threading/Threads.Assessment/bin/Debug/net8.0/Threads.Assessment
+/Users/mnathz/Threading/Threads.Assessment/bin/Debug/net8.0/Threads.Assessment.deps.json
+/Users/mnathz/Threading/Threads.Assessment/bin/Debug/net8.0/Threads.Assessment.runtimeconfig.json
+/Users/mnathz/Threading/Threads.Assessment/bin/Debug/net8.0/Threads.Assessment.dll
+/Users/mnathz/Threading/Threads.Assessment/bin/Debug/net8.0/Threads.Assessment.pdb
+/Users/mnathz/Threading/Threads.Assessment/obj/Debug/net8.0/Threads.Assessment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mnathz/Threading/Threads.Assessment/obj/Debug/net8.0/Threads.Assessment.AssemblyInfoInputs.cache
+/Users/mnathz/Threading/Threads.Assessment/obj/Debug/net8.0/Threads.Assessment.AssemblyInfo.cs
+/Users/mnathz/Threading/Threads.Assessment/obj/Debug/net8.0/Threads.Assessment.csproj.CoreCompileInputs.cache
+/Users/mnathz/Threading/Threads.Assessment/obj/Debug/net8.0/Threads.Assessment.dll
+/Users/mnathz/Threading/Threads.Assessment/obj/Debug/net8.0/refint/Threads.Assessment.dll
+/Users/mnathz/Threading/Threads.Assessment/obj/Debug/net8.0/Threads.Assessment.pdb
+/Users/mnathz/Threading/Threads.Assessment/obj/Debug/net8.0/Threads.Assessment.genruntimeconfig.cache
+/Users/mnathz/Threading/Threads.Assessment/obj/Debug/net8.0/ref/Threads.Assessment.dll
